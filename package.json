@@ -1,0 +1,17 @@
+{
+  "name": "hiphup-desktop",
+  "version": "1.0.0",
+  "description": "A desktop app!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "desktop"
+  ],
+  "author": "livissnack",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
